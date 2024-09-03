@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.bb3b13f8.css",
-    "main.js": "/website/static/js/main.18b8a112.js",
+    "main.js": "/website/static/js/main.dc720065.js",
     "static/media/portfolio.gif": "/website/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/picofme.png": "/website/static/media/picofme.064a09d2e04640bb2a62.png",
     "static/media/UCP ENGG.png": "/website/static/media/UCP ENGG.712f099af3dd847ca55e.png",
@@ -10,8 +10,10 @@
     "static/media/tiktok_logo.png": "/website/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
     "static/media/Montserrat-Regular.ttf": "/website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/iu_logo.png": "/website/static/media/iu_logo.5f44628376f5171bea0f.png",
+    "static/media/dsc_logo.png": "/website/static/media/dsc_logo.fdf993910e3f48d0cf30.png",
     "static/media/fa-solid-900.eot": "/website/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/website/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
+    "static/media/animated_ashutosh.png": "/website/static/media/animated_ashutosh.a6571aa6386520448027.png",
     "static/media/fa-regular-400.svg": "/website/static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
     "static/media/fa-brands-400.eot": "/website/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "/website/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
@@ -31,6 +33,7 @@
     "static/media/animated_logo.svg": "/website/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/website/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/website/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/iiitk_logo.png": "/website/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/website/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/website/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/C V RAMAN.png": "/website/static/media/C V RAMAN.78a9b4aa03927addbd0a.png",
@@ -71,10 +74,10 @@
     "static/media/talksCardBackAlt.svg": "/website/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/website/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.bb3b13f8.css.map": "/website/static/css/main.bb3b13f8.css.map",
-    "main.18b8a112.js.map": "/website/static/js/main.18b8a112.js.map"
+    "main.dc720065.js.map": "/website/static/js/main.dc720065.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3b13f8.css",
-    "static/js/main.18b8a112.js"
+    "static/js/main.dc720065.js"
   ]
 }
