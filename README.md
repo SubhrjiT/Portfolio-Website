@@ -11,6 +11,21 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 ## 📄 About the Project
 
 This portfolio is a way for me to present my skills and projects. It's built with modern web technologies, ensuring a responsive and user-friendly experience for visitors on both desktop and mobile devices.
+## 📂 Project Structure
+
+```plaintext
+Portfolio-Website/
+├── public/                # Static files
+│   ├── icons/             # Favicon and other icons
+│   ├── index.html         # Main HTML file
+├── src/                   # Source files
+│   ├── components/        # React components
+│   ├── App.js             # Main app component
+│   ├── index.js           # React entry point
+├── static/                # Minified assets
+├── README.md              # Project documentation
+└── package.json           # Project metadata and dependencies
+```
 
 ### Key Features
 
@@ -56,21 +71,7 @@ Ensure you have **Git** and **Node.js** installed.
    ```
    This should open the portfolio site on `localhost:3000` or another available port.
 
-## 📂 Project Structure
 
-```plaintext
-Portfolio-Website/
-├── public/                # Static files
-│   ├── icons/             # Favicon and other icons
-│   ├── index.html         # Main HTML file
-├── src/                   # Source files
-│   ├── components/        # React components
-│   ├── App.js             # Main app component
-│   ├── index.js           # React entry point
-├── static/                # Minified assets
-├── README.md              # Project documentation
-└── package.json           # Project metadata and dependencies
-```
 
 ## 🤝 Contributing
 
